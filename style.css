@@ -33,3 +33,8 @@ button:hover {
     margin-bottom: 10px;
     font-size: 18px;
 }
+
+body {
+    background: #1e1e1e;
+    color: white;
+}
